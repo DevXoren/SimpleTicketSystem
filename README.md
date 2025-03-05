@@ -6,5 +6,5 @@
 
 - **Заполни config.json**
 - **В events/interactionCreate.js введи ID категории создания тикетов и ID роли модератора**
-- **npm install**
-- **node index.js**
+- **Установка нужных зависимостей npm install**
+- **Запуск node index.js**
